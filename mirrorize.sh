@@ -30,6 +30,8 @@ else
     secondmirror="https://eydeekay.github.io/$mirror/$toppath"
 fi
 
+secondmirrorparent=$(dirname "$secondmirror")
+
 wget -m -np -c -R "index.html*" "$url$urlpath/"
 
 mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p/announce \
@@ -140,3 +142,5 @@ done
 
 echo "Mirror generation complete"
 
+source .venv/bin/activate
+dir2feed --depth 3 . "$secondmirrorparent"
