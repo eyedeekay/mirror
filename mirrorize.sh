@@ -24,6 +24,12 @@ echo "        $dirpath"
 echo "        $toppath"
 echo "$url$urlpath"
 
+if [ ! -z "$4" ]; then
+    secondmirror="$4"
+else
+    secondmirror="https://eydeekay.github.io/$mirror/$toppath"
+fi
+
 wget -m -np -c -R "index.html*" "$url$urlpath/"
 
 mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p/announce \
@@ -98,7 +104,7 @@ for file in $(ls "$dirpath"); do
 		-a http://open.acgnxtracker.com:80/announce \
 		-a http://mail2.zelenaya.net:80/announce \
 		-a http://acg.rip:6699/announce \
-        --comment "i2p torrent mirror for $file" --web-seed="$url$urlpath/$file" -o "$dirpath/$file.torrent" "$dirpath/$file" 2> /dev/null
+        --comment "i2p torrent mirror for $file" --web-seed="$url$urlpath/$file,$secondmirror/$file" -o "$dirpath/$file.torrent" "$dirpath/$file" 2> /dev/null
     fi
 done
 
