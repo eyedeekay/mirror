@@ -107,11 +107,11 @@ echo "==========" >> INDEX.md
 echo "" >> INDEX.md
 
 for dir in $(ls "$toppath"); do
-    echo " - [$dir]($subdir/$toppath/$dir)" >> INDEX.md
+    echo " - [$dir](/$subdir/$toppath/$dir)" >> INDEX.md
 done
 
 for dir in $(ls); do
-    echo " - [$dir]($subdir/$dir)" >> INDEX.md
+    echo " - [$dir](/$subdir/$dir)" >> INDEX.md
 done
 
 markdown INDEX.md > index.html
