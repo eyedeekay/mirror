@@ -101,11 +101,11 @@ echo "==========" >> INDEX.md
 echo "" >> INDEX.md
 
 for dir in $(ls "$toppath"); do
-    echo " - [$dir](/$toppath/$dir)" >> INDEX.md
+    echo " - [$dir]($toppath/$dir)" >> INDEX.md
 done
 
 for dir in $(ls); do
-    echo " - [$dir](/$dir)" >> INDEX.md
+    echo " - [$dir]($dir)" >> INDEX.md
 done
 
 markdown INDEX.md > index.html
@@ -116,7 +116,7 @@ for dir in $(find "$toppath" -type d); do
     echo "==========" >> "$dir/INDEX.md"
     echo "" >> "$dir/INDEX.md"
     for file in $(ls "$dir"); do
-        echo " - [$file](/$dir/$file)" >> "$dir/INDEX.md"
+        echo " - [$file]($dir/$file)" >> "$dir/INDEX.md"
         if [ $(echo "$file" | grep torrent) ]; then
             magnet=$(torrent2magnet "$dir/$file")
             echo "  - [$magnet link for $file]($magnet)" >> "$dir/INDEX.md"
