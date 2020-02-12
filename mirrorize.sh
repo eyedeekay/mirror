@@ -142,5 +142,15 @@ done
 
 echo "Mirror generation complete"
 
-. .venv/bin/activate
-dir2feed --depth 3 . "$secondmirrorparent" | tee index.rss
+if [ -f ".venv/bin/activate" ]; then
+    . .venv/bin/activate
+    dir2feed --depth 3 . "$secondmirrorparent" | tee index.rss
+else
+    if [ -f $(which pip3) ]; then
+        python3 -m venv .venv
+        . .venv/bin/activate
+        pip install git+https://github.com/pR0Ps/dir2feed.git
+    fi
+    . .venv/bin/activate
+    dir2feed --depth 3 . "$secondmirrorparent" | tee index.rss
+fi
