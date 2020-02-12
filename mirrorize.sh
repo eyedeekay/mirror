@@ -1,15 +1,15 @@
 #! /usr/bin/env sh
 
 if [ ! -z "$1" ]; then
-    url="$1"
+    urlpath="$1"
 else
-    url="https://files.i2p-projekt.de/"
+    urlpath="0.9.44"
 fi
 
 if [ ! -z "$2" ]; then
-    urlpath="$2"
+    url="$2"
 else
-    urlpath="0.9.44"
+    url="https://files.i2p-projekt.de/"
 fi
 
 if [ ! -z "$3" ]; then
@@ -115,7 +115,7 @@ for dir in $(ls); do
 done
 
 markdown INDEX.md > index.html
-cp index.html "$toppath/index.html"
+markdown INDEX.md > "$toppath/index.html"
 
 for dir in $(find "$toppath" -type d); do
     echo "I2P Mirror" > "$dir/INDEX.md"
