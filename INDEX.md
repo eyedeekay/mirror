@@ -10,5 +10,6 @@ I2P Mirror
  - [files.i2p-projekt.de](/mirror/files.i2p-projekt.de)
  - [index.html](/mirror/index.html)
  - [INDEX.md](/mirror/INDEX.md)
+ - [index.rss](/mirror/index.rss)
  - [mirrorize.sh](/mirror/mirrorize.sh)
  - [README.md](/mirror/README.md)

@@ -142,5 +142,5 @@ done
 
 echo "Mirror generation complete"
 
-source .venv/bin/activate
-dir2feed --depth 3 . "$secondmirrorparent"
+. .venv/bin/activate
+dir2feed --depth 3 . "$secondmirrorparent" | tee index.rss
