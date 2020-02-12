@@ -104,7 +104,7 @@ for file in $(ls "$dirpath"); do
 		-a http://open.acgnxtracker.com:80/announce \
 		-a http://mail2.zelenaya.net:80/announce \
 		-a http://acg.rip:6699/announce \
-        --comment "i2p torrent mirror for $file" --web-seed="$url$urlpath/$file,$secondmirror/$file" -o "$dirpath/$file.torrent" "$dirpath/$file" 2> /dev/null
+        --comment "i2p torrent mirror for $file" --web-seed="$url$urlpath/$file,$secondmirror$urlpath/$file" -o "$dirpath/$file.torrent" "$dirpath/$file" 2> /dev/null
     fi
 done
 
