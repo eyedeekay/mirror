@@ -134,8 +134,9 @@ for dir in $(find "$toppath" -type d); do
             echo "  - [$magnet link for $file]($magnet)" >> "$dir/INDEX.md"
         fi
     done
-    echo "Index generation 2 complete"
+    echo "Index generation complete"
     markdown "$dir/INDEX.md" > "$dir/index.html"
 done
 
 echo "Mirror generation complete"
+
