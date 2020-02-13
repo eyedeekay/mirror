@@ -35,7 +35,7 @@ secondmirrorparent=$(dirname "$secondmirror")
 echo "mirroring at $secondmirrorparent"
 
 find "$dirpath" -name '*.torrent' -exec rm -vf {} \;
-rm "$urlpath.torrent"
+rm -vf "$urlpath.torrent"
 
 wget -m -np -c -R "index.html*" "$url$urlpath/"
 
@@ -152,7 +152,7 @@ done
 
 echo "Mirror generation complete"
 
-rm -f "$toppath.torrent"
+rm -fv "$toppath.torrent"
 
 mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p/announce \
 		-a http://s5ikrdyjwbcgxmqetxb3nyheizftms7euacuub2hic7defkh3xhq.b32.i2p/a \
