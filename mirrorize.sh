@@ -124,6 +124,9 @@ for dir in $(ls); do
     echo " - [$dir](/$subdir/$dir)" >> INDEX.md
 done
 
+echo "" >> INDEX.md
+cat README.md >> INDEX.md
+
 markdown INDEX.md > index.html
 markdown INDEX.md > "$toppath/index.html"
 

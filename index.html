@@ -7,6 +7,14 @@
 <li><a href="/mirror/files.i2p-projekt.de/INDEX.md">INDEX.md</a></li>
 <li><a href="/mirror/0.9.43.torrent">0.9.43.torrent</a></li>
 <li><a href="/mirror/0.9.44.torrent">0.9.44.torrent</a></li>
+<li><a href="/mirror/0-torrent.png">0-torrent.png</a></li>
+<li><a href="/mirror/1-torrent.png">1-torrent.png</a></li>
+<li><a href="/mirror/2-torrent.png">2-torrent.png</a></li>
+<li><a href="/mirror/3-torrent.png">3-torrent.png</a></li>
+<li><a href="/mirror/4-torrent.png">4-torrent.png</a></li>
+<li><a href="/mirror/5-torrent.png">5-torrent.png</a></li>
+<li><a href="/mirror/6-torrent.png">6-torrent.png</a></li>
+<li><a href="/mirror/7-torrent.png">7-torrent.png</a></li>
 <li><a href="/mirror/files.i2p-projekt.de">files.i2p-projekt.de</a></li>
 <li><a href="/mirror/index.html">index.html</a></li>
 <li><a href="/mirror/INDEX.md">INDEX.md</a></li>
@@ -14,3 +22,71 @@
 <li><a href="/mirror/mirrorize.sh">mirrorize.sh</a></li>
 <li><a href="/mirror/README.md">README.md</a></li>
 </ul>
+
+<h2>mirror</h2>
+
+<p>My mirror of the official i2p.i2p packages(Starting at 9.44). Has a an extra
+feature where it generates a torrent for every file in the directory and an RSS
+feed for every file in the directory, including torrents. The torrents also
+all include a web seed which will use an official I2P mirror or this repository
+to supply the torrents in the absence of a client seeding the file.</p>
+
+<h3>Requirements:</h3>
+
+<p>mktorrent
+torrent2magnet
+pip3
+python3-virtualenv</p>
+
+<h3>Seeding</h3>
+
+<h4>Follow this guide to seed the official I2P distro with BiglyBT.</h4>
+
+<ul>
+<li><strong>Start the way you normally would to add a torrent:</strong></li>
+</ul>
+
+<p><img src="0-torrent.png" alt="Start adding the torrent" title="" /></p>
+
+<ul>
+<li><strong>This time, copy this RSS feed URL into the field:</strong></li>
+</ul>
+
+<p><img src="1-torrent.png" alt="Copy the RSS feed URL" title="" /></p>
+
+<ul>
+<li><strong>Confirm that you with to add the feed:</strong></li>
+</ul>
+
+<p><img src="2-torrent.png" alt="Add the Feed" title="" /></p>
+
+<ul>
+<li><strong>Confirm the details:</strong></li>
+</ul>
+
+<p><img src="3-torrent.png" alt="Confirm the details" title="" /></p>
+
+<ul>
+<li><strong>View the feed contents:</strong></li>
+</ul>
+
+<p><img src="4-torrent.png" alt="View the feed contents" title="" /></p>
+
+<ul>
+<li><strong>Filter the feed contents so it only shows torrent files:</strong></li>
+</ul>
+
+<p><img src="5-torrent.png" alt="filter the feed contents" title="" /></p>
+
+<ul>
+<li><strong>Download the files you want to help seed:</strong></li>
+</ul>
+
+<p><img src="6-torrent.png" alt="Download some files" title="" /></p>
+
+<ul>
+<li><strong>Finally, if you really want to help, configure BiglyBT to automatically download</strong>
+<strong>new torrents from the feed.</strong></li>
+</ul>
+
+<p><img src="7-torrent.png" alt="Auto-download the feed contents" title="" /></p>
