@@ -27,6 +27,7 @@ I2P Mirror
  - [0.9.3](/mirror/files.i2p-projekt.de/0.9.3)
  - [0.9.30](/mirror/files.i2p-projekt.de/0.9.30)
  - [0.9.31](/mirror/files.i2p-projekt.de/0.9.31)
+ - [0.9.32](/mirror/files.i2p-projekt.de/0.9.32)
  - [0.9.4](/mirror/files.i2p-projekt.de/0.9.4)
  - [0.9.42](/mirror/files.i2p-projekt.de/0.9.42)
  - [0.9.43](/mirror/files.i2p-projekt.de/0.9.43)
