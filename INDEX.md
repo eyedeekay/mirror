@@ -38,6 +38,7 @@ I2P Mirror
  - [0.9.10.torrent](/mirror/0.9.10.torrent)
  - [0.9.11.torrent](/mirror/0.9.11.torrent)
  - [0.9.12.torrent](/mirror/0.9.12.torrent)
+ - [0.9.13.torrent](/mirror/0.9.13.torrent)
  - [1-torrent.png](/mirror/1-torrent.png)
  - [2-torrent.png](/mirror/2-torrent.png)
  - [3-torrent.png](/mirror/3-torrent.png)
