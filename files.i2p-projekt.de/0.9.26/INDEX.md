@@ -31,6 +31,7 @@ I2P Mirror
  - [i2pupdate.su3](/mirror/files.i2p-projekt.de/0.9.26/i2pupdate.su3)
  - [i2pupdate.su3.torrent](/mirror/files.i2p-projekt.de/0.9.26/i2pupdate.su3.torrent)
   - [magnet:?xt=urn:btih:b23cceb5d0e6946a01e9c10246095c994ce08490 link for i2pupdate.su3.torrent](magnet:?xt=urn:btih:b23cceb5d0e6946a01e9c10246095c994ce08490)
+ - [index.html](/mirror/files.i2p-projekt.de/0.9.26/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/0.9.26/INDEX.md)
  - [shasums.txt](/mirror/files.i2p-projekt.de/0.9.26/shasums.txt)
  - [shasums.txt.torrent](/mirror/files.i2p-projekt.de/0.9.26/shasums.txt.torrent)
