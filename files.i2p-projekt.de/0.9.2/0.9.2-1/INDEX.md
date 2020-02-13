@@ -9,4 +9,5 @@ I2P Mirror
  - [i2pupdate200.zip.sha256sum.txt](/mirror/files.i2p-projekt.de/0.9.2/0.9.2-1/i2pupdate200.zip.sha256sum.txt)
  - [i2pupdate.zip](/mirror/files.i2p-projekt.de/0.9.2/0.9.2-1/i2pupdate.zip)
  - [i2pupdate.zip.sha256sum.txt](/mirror/files.i2p-projekt.de/0.9.2/0.9.2-1/i2pupdate.zip.sha256sum.txt)
+ - [index.html](/mirror/files.i2p-projekt.de/0.9.2/0.9.2-1/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/0.9.2/0.9.2-1/INDEX.md)
