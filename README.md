@@ -21,34 +21,19 @@ markdown
 #### Follow this guide to seed the official I2P distro with BiglyBT.
 
 - **Start the way you normally would to add a torrent:**
-
-![Start adding the torrent](0-torrent.png)
-
+ - ![Start adding the torrent](0-torrent.png)
 - **This time, copy this RSS feed URL into the field:**
-
-![Copy the RSS feed URL](1-torrent.png)
-
+ - ![Copy the RSS feed URL](1-torrent.png)
 - **Confirm that you with to add the feed:**
-
-![Add the Feed](2-torrent.png)
-
+ - ![Add the Feed](2-torrent.png)
 - **Confirm the details:**
-
-![Confirm the details](3-torrent.png)
-
+ - ![Confirm the details](3-torrent.png)
 - **View the feed contents:**
-
-![View the feed contents](4-torrent.png)
-
+ - ![View the feed contents](4-torrent.png)
 - **Filter the feed contents so it only shows torrent files:**
-
-![filter the feed contents](5-torrent.png)
-
+ - ![filter the feed contents](5-torrent.png)
 - **Download the files you want to help seed:**
-
-![Download some files](6-torrent.png)
-
+ - ![Download some files](6-torrent.png)
 - **Finally, if you really want to help, configure BiglyBT to automatically download**
   **new torrents from the feed.**
-
-![Auto-download the feed contents](7-torrent.png)
+ - ![Auto-download the feed contents](7-torrent.png)
