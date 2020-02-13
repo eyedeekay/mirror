@@ -122,7 +122,7 @@ for dir in $(ls "$toppath"); do
     echo " - [$dir](/$subdir/$toppath/$dir)" >> INDEX.md
 done
 
-for dir in $(ls); do
+for dir in $(ls | sed '/-/!{s/$/_/}' | sort -V | sed 's/_$//'); do
     echo " - [$dir](/$subdir/$dir)" >> INDEX.md
 done
 
