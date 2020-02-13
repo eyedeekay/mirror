@@ -34,4 +34,5 @@ I2P Mirror
  - [i2pupdate.sud](/mirror/files.i2p-projekt.de/0.9.7.1/i2pupdate.sud)
  - [i2pupdate.sud.torrent](/mirror/files.i2p-projekt.de/0.9.7.1/i2pupdate.sud.torrent)
   - [magnet:?xt=urn:btih:528ba1ecc466124c5a3ccd846c97c4e7c52de33e link for i2pupdate.sud.torrent](magnet:?xt=urn:btih:528ba1ecc466124c5a3ccd846c97c4e7c52de33e)
+ - [index.html](/mirror/files.i2p-projekt.de/0.9.7.1/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/0.9.7.1/INDEX.md)
