@@ -2,95 +2,223 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://eyedeekay.github.io/mirror</id>
   <title>.</title>
-  <updated>2020-02-13T01:40:51.408350+00:00</updated>
+  <updated>2020-02-13T02:18:21.077619+00:00</updated>
   <generator uri="https://github.com/pR0Ps/dir2feed">dir2feed</generator>
   <entry>
     <id>https://eyedeekay.github.io/mirror/index.rss</id>
     <title>index.rss</title>
-    <updated>2020-02-13T01:40:49.676943+00:00</updated>
+    <updated>2020-02-13T02:18:19.728706+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/index.rss" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/index.rss" rel="enclosure" type="application/x-rss+xml" length="0"/>
-    <summary type="html">&lt;p&gt;Filename: index.rss&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:49.676943+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: index.rss&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.728706+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html</id>
     <title>index.html</title>
-    <updated>2020-02-13T01:40:49.656943+00:00</updated>
+    <updated>2020-02-13T02:18:19.716706+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html" rel="enclosure" type="text/html" length="5684"/>
-    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:49.656943+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.716706+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md</id>
     <title>INDEX.md</title>
-    <updated>2020-02-13T01:40:49.448941+00:00</updated>
+    <updated>2020-02-13T02:18:19.648705+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md" rel="enclosure" type="text/markdown" length="4581"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:49.448941+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.648705+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html</id>
     <title>index.html</title>
-    <updated>2020-02-13T01:40:48.848934+00:00</updated>
+    <updated>2020-02-13T02:18:19.500703+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html" rel="enclosure" type="text/html" length="5719"/>
-    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.848934+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.500703+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md</id>
     <title>INDEX.md</title>
-    <updated>2020-02-13T01:40:48.788933+00:00</updated>
+    <updated>2020-02-13T02:18:19.436702+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md" rel="enclosure" type="text/markdown" length="4616"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.788933+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.436702+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/index.html</id>
     <title>index.html</title>
-    <updated>2020-02-13T01:40:48.668932+00:00</updated>
+    <updated>2020-02-13T02:18:19.168698+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/index.html" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/index.html" rel="enclosure" type="text/html" length="5163"/>
-    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.668932+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.168698+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/INDEX.md</id>
     <title>INDEX.md</title>
-    <updated>2020-02-13T01:40:48.616931+00:00</updated>
+    <updated>2020-02-13T02:18:19.036696+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/INDEX.md" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.42/INDEX.md" rel="enclosure" type="text/markdown" length="4148"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.616931+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:19.036696+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/index.html</id>
+    <title>index.html</title>
+    <updated>2020-02-13T02:18:18.584689+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/index.html" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/index.html" rel="enclosure" type="text/html" length="4914"/>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:18.584689+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/INDEX.md</id>
+    <title>INDEX.md</title>
+    <updated>2020-02-13T02:18:18.524688+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/INDEX.md" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/INDEX.md" rel="enclosure" type="text/markdown" length="3916"/>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:18.524688+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/index.html</id>
     <title>index.html</title>
-    <updated>2020-02-13T01:40:48.404929+00:00</updated>
+    <updated>2020-02-13T02:18:18.304685+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/index.html" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/index.html" rel="enclosure" type="text/html" length="591"/>
-    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.404929+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/index.html" rel="enclosure" type="text/html" length="655"/>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:18.304685+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/INDEX.md</id>
     <title>INDEX.md</title>
-    <updated>2020-02-13T01:40:48.356928+00:00</updated>
+    <updated>2020-02-13T02:18:18.248684+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/INDEX.md" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/INDEX.md" rel="enclosure" type="text/markdown" length="280"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.356928+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/INDEX.md" rel="enclosure" type="text/markdown" length="327"/>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:18.248684+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/index.html</id>
     <title>index.html</title>
-    <updated>2020-02-13T01:40:48.284928+00:00</updated>
+    <updated>2020-02-13T02:18:18.164683+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/index.html" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/index.html" rel="enclosure" type="text/html" length="3592"/>
-    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.284928+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <link href="https://eyedeekay.github.io/mirror/index.html" rel="enclosure" type="text/html" length="3780"/>
+    <summary type="html">&lt;p&gt;Filename: index.html&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:18.164683+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/INDEX.md</id>
     <title>INDEX.md</title>
-    <updated>2020-02-13T01:40:48.084925+00:00</updated>
+    <updated>2020-02-13T02:18:17.960680+00:00</updated>
     <link href="https://eyedeekay.github.io/mirror/INDEX.md" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/INDEX.md" rel="enclosure" type="text/markdown" length="2410"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:40:48.084925+00:00"&gt;2020-02-13 01:40 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+    <link href="https://eyedeekay.github.io/mirror/INDEX.md" rel="enclosure" type="text/markdown" length="2547"/>
+    <summary type="html">&lt;p&gt;Filename: INDEX.md&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.960680+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.sig.torrent</id>
+    <title>i2pupdate_0.9.1.zip.sig.torrent</title>
+    <updated>2020-02-13T02:18:17.952679+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.sig.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2100"/>
+    <summary type="html">&lt;p&gt;Filename: i2pupdate_0.9.1.zip.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.952679+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.torrent</id>
+    <title>i2pupdate_0.9.1.zip.torrent</title>
+    <updated>2020-02-13T02:18:17.944679+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pupdate_0.9.1.zip.torrent" rel="enclosure" type="application/x-bittorrent" length="2630"/>
+    <summary type="html">&lt;p&gt;Filename: i2pupdate_0.9.1.zip.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.944679+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.sig.torrent</id>
+    <title>i2psource_0.9.1.tar.bz2.sig.torrent</title>
+    <updated>2020-02-13T02:18:17.904679+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.sig.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2116"/>
+    <summary type="html">&lt;p&gt;Filename: i2psource_0.9.1.tar.bz2.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.904679+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.torrent</id>
+    <title>i2psource_0.9.1.tar.bz2.torrent</title>
+    <updated>2020-02-13T02:18:17.872678+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2psource_0.9.1.tar.bz2.torrent" rel="enclosure" type="application/x-bittorrent" length="3768"/>
+    <summary type="html">&lt;p&gt;Filename: i2psource_0.9.1.tar.bz2.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.872678+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.sig.torrent</id>
+    <title>i2pinstall_0.9.1_windows.exe.sig.torrent</title>
+    <updated>2020-02-13T02:18:17.784677+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.sig.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2136"/>
+    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.1_windows.exe.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.784677+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.torrent</id>
+    <title>i2pinstall_0.9.1_windows.exe.torrent</title>
+    <updated>2020-02-13T02:18:17.748676+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1_windows.exe.torrent" rel="enclosure" type="application/x-bittorrent" length="3087"/>
+    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.1_windows.exe.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.748676+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.sig.torrent</id>
+    <title>i2pinstall_0.9.1.jar.sig.torrent</title>
+    <updated>2020-02-13T02:18:17.660675+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.sig.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2104"/>
+    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.1.jar.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.660675+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.torrent</id>
+    <title>i2pinstall_0.9.1.jar.torrent</title>
+    <updated>2020-02-13T02:18:17.628675+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/i2pinstall_0.9.1.jar.torrent" rel="enclosure" type="application/x-bittorrent" length="3296"/>
+    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.1.jar.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.628675+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-18.torrent</id>
+    <title>0.9.1-18.torrent</title>
+    <updated>2020-02-13T02:18:17.504673+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-18.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-18.torrent" rel="enclosure" type="application/x-bittorrent" length="5293"/>
+    <summary type="html">&lt;p&gt;Filename: 0.9.1-18.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.504673+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-11.torrent</id>
+    <title>0.9.1-11.torrent</title>
+    <updated>2020-02-13T02:18:17.304670+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-11.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-11.torrent" rel="enclosure" type="application/x-bittorrent" length="5293"/>
+    <summary type="html">&lt;p&gt;Filename: 0.9.1-11.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.304670+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-1.torrent</id>
+    <title>0.9.1-1.torrent</title>
+    <updated>2020-02-13T02:18:17.116667+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-1.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.1/0.9.1-1.torrent" rel="enclosure" type="application/x-bittorrent" length="5265"/>
+    <summary type="html">&lt;p&gt;Filename: 0.9.1-1.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:17.116667+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/0.9.1.torrent</id>
+    <title>0.9.1.torrent</title>
+    <updated>2020-02-13T02:18:16.928664+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/0.9.1.torrent" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/0.9.1.torrent" rel="enclosure" type="application/x-bittorrent" length="16753"/>
+    <summary type="html">&lt;p&gt;Filename: 0.9.1.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:18:16.928664+00:00"&gt;2020-02-13 02:18 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/mirrorize-all.sh</id>
+    <title>mirrorize-all.sh</title>
+    <updated>2020-02-13T02:12:15.439263+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/mirrorize-all.sh" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/mirrorize-all.sh" rel="enclosure" type="text/x-sh" length="134"/>
+    <summary type="html">&lt;p&gt;Filename: mirrorize-all.sh&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:12:15.439263+00:00"&gt;2020-02-13 02:12 UTC&lt;/time&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>https://eyedeekay.github.io/mirror/releases.list</id>
+    <title>releases.list</title>
+    <updated>2020-02-13T02:09:23.732697+00:00</updated>
+    <link href="https://eyedeekay.github.io/mirror/releases.list" rel="alternate"/>
+    <link href="https://eyedeekay.github.io/mirror/releases.list" rel="enclosure" length="330"/>
+    <summary type="html">&lt;p&gt;Filename: releases.list&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T02:09:23.732697+00:00"&gt;2020-02-13 02:09 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>https://eyedeekay.github.io/mirror/README.md</id>
@@ -205,14 +333,6 @@
     <summary type="html">&lt;p&gt;Filename: mirrorize.sh&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:20:10.204448+00:00"&gt;2020-02-13 01:20 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <id>https://eyedeekay.github.io/mirror/releases.list</id>
-    <title>releases.list</title>
-    <updated>2020-02-13T01:15:50.258014+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/releases.list" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/releases.list" rel="enclosure" length="21"/>
-    <summary type="html">&lt;p&gt;Filename: releases.list&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-13T01:15:50.258014+00:00"&gt;2020-02-13 01:15 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
     <id>https://eyedeekay.github.io/mirror/7-torrent.png</id>
     <title>7-torrent.png</title>
     <updated>2020-02-13T00:55:49.573299+00:00</updated>
@@ -283,126 +403,6 @@
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/shasums.txt.torrent" rel="alternate"/>
     <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/shasums.txt.torrent" rel="enclosure" type="application/x-bittorrent" length="2049"/>
     <summary type="html">&lt;p&gt;Filename: shasums.txt.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.774224+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md.torrent</id>
-    <title>INDEX.md.torrent</title>
-    <updated>2020-02-12T22:57:22.770224+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/INDEX.md.torrent" rel="enclosure" type="application/x-bittorrent" length="2036"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.770224+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html.torrent</id>
-    <title>index.html.torrent</title>
-    <updated>2020-02-12T22:57:22.762224+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/index.html.torrent" rel="enclosure" type="application/x-bittorrent" length="2045"/>
-    <summary type="html">&lt;p&gt;Filename: index.html.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.762224+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate.su3.torrent</id>
-    <title>i2pupdate.su3.torrent</title>
-    <updated>2020-02-12T22:57:22.750224+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate.su3.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate.su3.torrent" rel="enclosure" type="application/x-bittorrent" length="2661"/>
-    <summary type="html">&lt;p&gt;Filename: i2pupdate.su3.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.750224+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.sig.torrent</id>
-    <title>i2pupdate_0.9.43.zip.sig.torrent</title>
-    <updated>2020-02-12T22:57:22.718223+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.sig.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2100"/>
-    <summary type="html">&lt;p&gt;Filename: i2pupdate_0.9.43.zip.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.718223+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.torrent</id>
-    <title>i2pupdate_0.9.43.zip.torrent</title>
-    <updated>2020-02-12T22:57:22.710223+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pupdate_0.9.43.zip.torrent" rel="enclosure" type="application/x-bittorrent" length="3211"/>
-    <summary type="html">&lt;p&gt;Filename: i2pupdate_0.9.43.zip.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.710223+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.sig.torrent</id>
-    <title>i2psource_0.9.43.tar.bz2.sig.torrent</title>
-    <updated>2020-02-12T22:57:22.662222+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.sig.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2116"/>
-    <summary type="html">&lt;p&gt;Filename: i2psource_0.9.43.tar.bz2.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.662222+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.torrent</id>
-    <title>i2psource_0.9.43.tar.bz2.torrent</title>
-    <updated>2020-02-12T22:57:22.658222+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2psource_0.9.43.tar.bz2.torrent" rel="enclosure" type="application/x-bittorrent" length="4527"/>
-    <summary type="html">&lt;p&gt;Filename: i2psource_0.9.43.tar.bz2.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.658222+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.sig.torrent</id>
-    <title>i2pinstall_0.9.43_windows.exe.sig.torrent</title>
-    <updated>2020-02-12T22:57:22.594221+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.sig.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2136"/>
-    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.43_windows.exe.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.594221+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.torrent</id>
-    <title>i2pinstall_0.9.43_windows.exe.torrent</title>
-    <updated>2020-02-12T22:57:22.590221+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43_windows.exe.torrent" rel="enclosure" type="application/x-bittorrent" length="3227"/>
-    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.43_windows.exe.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.590221+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.sig.torrent</id>
-    <title>i2pinstall_0.9.43.jar.sig.torrent</title>
-    <updated>2020-02-12T22:57:22.558221+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.sig.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.sig.torrent" rel="enclosure" type="application/x-bittorrent" length="2104"/>
-    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.43.jar.sig.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.558221+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.torrent</id>
-    <title>i2pinstall_0.9.43.jar.torrent</title>
-    <updated>2020-02-12T22:57:22.554221+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.43/i2pinstall_0.9.43.jar.torrent" rel="enclosure" type="application/x-bittorrent" length="3635"/>
-    <summary type="html">&lt;p&gt;Filename: i2pinstall_0.9.43.jar.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.554221+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/0.9.43.torrent</id>
-    <title>0.9.43.torrent</title>
-    <updated>2020-02-12T22:57:22.506220+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/0.9.43.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/0.9.43.torrent" rel="enclosure" type="application/x-bittorrent" length="10052"/>
-    <summary type="html">&lt;p&gt;Filename: 0.9.43.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:22.506220+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/shasums.txt.torrent</id>
-    <title>shasums.txt.torrent</title>
-    <updated>2020-02-12T22:57:16.658128+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/shasums.txt.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/shasums.txt.torrent" rel="enclosure" type="application/x-bittorrent" length="2049"/>
-    <summary type="html">&lt;p&gt;Filename: shasums.txt.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:16.658128+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md.torrent</id>
-    <title>INDEX.md.torrent</title>
-    <updated>2020-02-12T22:57:16.626127+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/INDEX.md.torrent" rel="enclosure" type="application/x-bittorrent" length="2036"/>
-    <summary type="html">&lt;p&gt;Filename: INDEX.md.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:16.626127+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html.torrent</id>
-    <title>index.html.torrent</title>
-    <updated>2020-02-12T22:57:16.578126+00:00</updated>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html.torrent" rel="alternate"/>
-    <link href="https://eyedeekay.github.io/mirror/files.i2p-projekt.de/0.9.44/index.html.torrent" rel="enclosure" type="application/x-bittorrent" length="2045"/>
-    <summary type="html">&lt;p&gt;Filename: index.html.torrent&lt;/p&gt;&lt;p&gt;Last modified: &lt;time datetime="2020-02-12T22:57:16.578126+00:00"&gt;2020-02-12 22:57 UTC&lt;/time&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
 
