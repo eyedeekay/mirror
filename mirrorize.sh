@@ -27,10 +27,12 @@ echo "$url$urlpath"
 if [ ! -z "$4" ]; then
     secondmirror="$4"
 else
-    secondmirror="https://eydeekay.github.io/$mirror/$toppath"
+    secondmirror="https://eydeekay.github.io/$subdir/$toppath"
 fi
 
 secondmirrorparent=$(dirname "$secondmirror")
+
+echo "mirroring at $secondmirrorparent"
 
 wget -m -np -c -R "index.html*" "$url$urlpath/"
 
