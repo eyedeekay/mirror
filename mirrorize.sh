@@ -27,7 +27,7 @@ echo "$url$urlpath"
 if [ ! -z "$4" ]; then
     secondmirror="$4"
 else
-    secondmirror="https://eydeekay.github.io/$subdir/$toppath"
+    secondmirror="https://eyedeekay.github.io/$subdir/$toppath"
 fi
 
 secondmirrorparent=$(dirname "$secondmirror")
