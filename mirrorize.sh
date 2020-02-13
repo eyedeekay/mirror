@@ -195,7 +195,7 @@ mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p
 		-a http://mail2.zelenaya.net:80/announce \
 		-a http://acg.rip:6699/announce \
         -c "i2p torrent mirror for $toppath" \
-        -w "$secondmirrror/" \
+        -w "$secondmirror/" \
         -w "$url" \
         "$toppath" 2> /dev/null
 
