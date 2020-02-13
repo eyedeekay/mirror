@@ -35,6 +35,7 @@ secondmirrorparent=$(dirname "$secondmirror")
 echo "mirroring at $secondmirrorparent"
 
 find "$dirpath" -name '*.torrent' -exec rm -vf {} \;
+rm "$urlpath.torrent"
 
 wget -m -np -c -R "index.html*" "$url$urlpath/"
 
