@@ -1,10 +1,12 @@
 I2P Mirror
 ==========
 
+ - [0.9.42](/mirror/files.i2p-projekt.de/0.9.42)
  - [0.9.43](/mirror/files.i2p-projekt.de/0.9.43)
  - [0.9.44](/mirror/files.i2p-projekt.de/0.9.44)
  - [index.html](/mirror/files.i2p-projekt.de/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/INDEX.md)
+ - [0.9.42.torrent](/mirror/0.9.42.torrent)
  - [0.9.43.torrent](/mirror/0.9.43.torrent)
  - [0.9.44.torrent](/mirror/0.9.44.torrent)
  - [0-torrent.png](/mirror/0-torrent.png)
@@ -19,14 +21,16 @@ I2P Mirror
  - [index.html](/mirror/index.html)
  - [INDEX.md](/mirror/INDEX.md)
  - [index.rss](/mirror/index.rss)
+ - [markdown](/mirror/markdown)
  - [mirrorize.sh](/mirror/mirrorize.sh)
  - [README.md](/mirror/README.md)
+ - [releases.list](/mirror/releases.list)
 
 mirror
 ------
 
 
-My mirror of the official i2p.i2p packages(Starting at 9.44). Has a an extra
+My mirror of the official i2p.i2p packages(Starting at 0.9.42). Has a an extra
 feature where it generates a torrent for every file in the directory and an RSS
 feed for every file in the directory, including torrents. The torrents also
 all include a web seed which will use an official I2P mirror or this repository
@@ -38,6 +42,7 @@ mktorrent
 torrent2magnet
 pip3
 python3-virtualenv
+markdown
 
 ### Seeding
 

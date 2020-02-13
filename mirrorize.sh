@@ -127,8 +127,8 @@ done
 echo "" >> INDEX.md
 cat README.md >> INDEX.md
 
-markdown INDEX.md > index.html
-markdown INDEX.md > "$toppath/index.html"
+./markdown INDEX.md > index.html
+./markdown INDEX.md > "$toppath/index.html"
 
 for dir in $(find "$toppath" -type d); do
     echo "I2P Mirror" > "$dir/INDEX.md"
@@ -142,7 +142,7 @@ for dir in $(find "$toppath" -type d); do
         fi
     done
     echo "Index generation complete"
-    markdown "$dir/INDEX.md" > "$dir/index.html"
+    ./markdown "$dir/INDEX.md" > "$dir/index.html"
 done
 
 echo "Mirror generation complete"
