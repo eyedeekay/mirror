@@ -74,8 +74,9 @@ mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p
 		-a http://mail2.zelenaya.net:80/announce \
 		-a http://acg.rip:6699/announce \
         -c "i2p torrent mirror for $url$urlpath" \
+        -w "$secondmirror/$urlpath/" \
         -w "$url$urlpath/" \
-        -w "$secondmirror/$urlpath/" "$dirpath" 2> /dev/null
+        "$dirpath" 2> /dev/null
 
 for dir in $(find "$dirpath"); do
     for file in $(ls "$dir"); do
@@ -115,8 +116,8 @@ for dir in $(find "$dirpath"); do
             -a http://mail2.zelenaya.net:80/announce \
             -a http://acg.rip:6699/announce \
             -c "i2p torrent mirror for $file" \
-            -w "$url$urlpath/$file" \
             -w "$secondmirror/$urlpath/$file" \
+            -w "$url$urlpath/$file" \
             -o "$dir/$file.torrent" "$dir/$file" 2> /dev/null
         fi
     done
@@ -194,8 +195,8 @@ mktorrent -a http://zviyq72xcmjupynn5y2f5qa3u7bxyu34jnqmwt6czte2l7idxm7q.b32.i2p
 		-a http://mail2.zelenaya.net:80/announce \
 		-a http://acg.rip:6699/announce \
         -c "i2p torrent mirror for $toppath" \
-        -w "$url" \
         -w "$secondmirrror/" \
+        -w "$url" \
         "$toppath" 2> /dev/null
 
 if [ -f ".venv/bin/activate" ]; then
