@@ -11,6 +11,7 @@ I2P Mirror
  - [INDEX.md](/mirror/files.i2p-projekt.de/INDEX.md)
  - [0.9.1.torrent](/mirror/0.9.1.torrent)
  - [0.9.2.torrent](/mirror/0.9.2.torrent)
+ - [0.9.3.torrent](/mirror/0.9.3.torrent)
  - [0.9.42.torrent](/mirror/0.9.42.torrent)
  - [0.9.43.torrent](/mirror/0.9.43.torrent)
  - [0.9.44.torrent](/mirror/0.9.44.torrent)
