@@ -118,7 +118,7 @@ echo "I2P Mirror" > INDEX.md
 echo "==========" >> INDEX.md
 echo "" >> INDEX.md
 
-for dir in $(ls "$toppath"); do
+for dir in $(ls "$toppath" | sed '/-/!{s/$/_/}' | sort -V | sed 's/_$//'); do
     echo " - [$dir](/$subdir/$toppath/$dir)" >> INDEX.md
 done
 
