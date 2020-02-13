@@ -3,6 +3,7 @@ I2P Mirror
 
  - [0.9.1](/mirror/files.i2p-projekt.de/0.9.1)
  - [0.9.10](/mirror/files.i2p-projekt.de/0.9.10)
+ - [0.9.11](/mirror/files.i2p-projekt.de/0.9.11)
  - [0.9.2](/mirror/files.i2p-projekt.de/0.9.2)
  - [0.9.3](/mirror/files.i2p-projekt.de/0.9.3)
  - [0.9.4](/mirror/files.i2p-projekt.de/0.9.4)
@@ -19,6 +20,7 @@ I2P Mirror
  - [index.html](/mirror/files.i2p-projekt.de/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/INDEX.md)
  - [0.9.10.torrent](/mirror/0.9.10.torrent)
+ - [0.9.11.torrent](/mirror/0.9.11.torrent)
  - [0.9.1.torrent](/mirror/0.9.1.torrent)
  - [0.9.2.torrent](/mirror/0.9.2.torrent)
  - [0.9.3.torrent](/mirror/0.9.3.torrent)
