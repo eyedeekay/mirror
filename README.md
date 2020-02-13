@@ -2,7 +2,7 @@ mirror
 ------
 
 
-My mirror of the official i2p.i2p packages(Starting at 0.9.42). Has a an extra
+My mirror of the official i2p.i2p packages(Starting at 0.9.1). Has a an extra
 feature where it generates a torrent for every file in the directory and an RSS
 feed for every file in the directory, including torrents. The torrents also
 all include a web seed which will use an official I2P mirror or this repository
