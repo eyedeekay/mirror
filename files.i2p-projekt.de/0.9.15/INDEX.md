@@ -25,4 +25,5 @@ I2P Mirror
   - [magnet:?xt=urn:btih:423ba6e3c869f65e932cb55b3f5fb03b4755e710 link for i2pupdate_0.9.15.zip.sig.torrent](magnet:?xt=urn:btih:423ba6e3c869f65e932cb55b3f5fb03b4755e710)
  - [i2pupdate_0.9.15.zip.torrent](/mirror/files.i2p-projekt.de/0.9.15/i2pupdate_0.9.15.zip.torrent)
   - [magnet:?xt=urn:btih:7846e920460aede7e46a5e73cb2f3d00e045921f link for i2pupdate_0.9.15.zip.torrent](magnet:?xt=urn:btih:7846e920460aede7e46a5e73cb2f3d00e045921f)
+ - [index.html](/mirror/files.i2p-projekt.de/0.9.15/index.html)
  - [INDEX.md](/mirror/files.i2p-projekt.de/0.9.15/INDEX.md)
