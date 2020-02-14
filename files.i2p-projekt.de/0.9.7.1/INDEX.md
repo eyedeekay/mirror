@@ -3,7 +3,7 @@ I2P Mirror
 
  - [0.9.7.1-25](/mirror/files.i2p-projekt.de/0.9.7.1/0.9.7.1-25)
  - [0.9.7.1-25.torrent](/mirror/files.i2p-projekt.de/0.9.7.1/0.9.7.1-25.torrent)
-  - [magnet:?xt=urn:btih:d8cf25132939529da666d4bac85655c6cc835898 link for 0.9.7.1-25.torrent](magnet:?xt=urn:btih:d8cf25132939529da666d4bac85655c6cc835898)
+  - [magnet:?xt=urn:btih:42f04a2d39a3caa3fe65c57b19e79fd8fbbed427 link for 0.9.7.1-25.torrent](magnet:?xt=urn:btih:42f04a2d39a3caa3fe65c57b19e79fd8fbbed427)
  - [i2pinstall_0.9.7.1.jar](/mirror/files.i2p-projekt.de/0.9.7.1/i2pinstall_0.9.7.1.jar)
  - [i2pinstall_0.9.7.1.jar.sig](/mirror/files.i2p-projekt.de/0.9.7.1/i2pinstall_0.9.7.1.jar.sig)
  - [i2pinstall_0.9.7.1.jar.sig.torrent](/mirror/files.i2p-projekt.de/0.9.7.1/i2pinstall_0.9.7.1.jar.sig.torrent)
@@ -36,7 +36,7 @@ I2P Mirror
   - [magnet:?xt=urn:btih:528ba1ecc466124c5a3ccd846c97c4e7c52de33e link for i2pupdate.sud.torrent](magnet:?xt=urn:btih:528ba1ecc466124c5a3ccd846c97c4e7c52de33e)
  - [index.html](/mirror/files.i2p-projekt.de/0.9.7.1/index.html)
  - [index.html.torrent](/mirror/files.i2p-projekt.de/0.9.7.1/index.html.torrent)
-  - [magnet:?xt=urn:btih:cc54b899dc3a3a7e93ead824a45be9f8ad597143 link for index.html.torrent](magnet:?xt=urn:btih:cc54b899dc3a3a7e93ead824a45be9f8ad597143)
+  - [magnet:?xt=urn:btih:5f464cb188a11aa36ca8d2b88490704fa82e1f76 link for index.html.torrent](magnet:?xt=urn:btih:5f464cb188a11aa36ca8d2b88490704fa82e1f76)
  - [INDEX.md](/mirror/files.i2p-projekt.de/0.9.7.1/INDEX.md)
  - [INDEX.md.torrent](/mirror/files.i2p-projekt.de/0.9.7.1/INDEX.md.torrent)
-  - [magnet:?xt=urn:btih:c67cb02ff793b4d87100198589beedf65d1849b9 link for INDEX.md.torrent](magnet:?xt=urn:btih:c67cb02ff793b4d87100198589beedf65d1849b9)
+  - [magnet:?xt=urn:btih:98ba9d03c5f7887002b1e243a7de757b64ae0008 link for INDEX.md.torrent](magnet:?xt=urn:btih:98ba9d03c5f7887002b1e243a7de757b64ae0008)
