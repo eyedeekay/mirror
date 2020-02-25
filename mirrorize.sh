@@ -3,7 +3,7 @@
 if [ ! -z "$1" ]; then
     urlpath="$1"
 else
-    urlpath="0.9.44"
+    urlpath="0.9.45"
 fi
 
 if [ ! -z "$2" ]; then
