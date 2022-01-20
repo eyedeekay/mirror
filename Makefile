@@ -6,7 +6,8 @@ clean:
 	rm index.html -f
 
 generate:
-	find . -maxdepth 1 -type d -not -path '.git' -exec ./gitpage.sh {} \;
+	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs ./gitpage.sh
+	 #-exec ./gitpage.sh {} \;
 
 clone:
 	git clone https://github.com/i2p/i2p.i2p ; cd i2p.i2p ; git pull --all
@@ -40,7 +41,8 @@ index.html: index
 
 index:
 	echo "" > INDEX.md
-	find . -maxdepth 1 -type d -not -path '.git' -exec echo "- [{}]({})" >> INDEX.md \;
+	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs -I {} echo '- [{}]({})' >> INDEX.md
+	#-exec echo "- [{}]({})" >> INDEX.md \;
 	echo "" >> INDEX.md
 	sed -i 's|./||g' INDEX.md
 	sed -i 's|\[.\]|\[mirror.home\]|g' INDEX.md
