@@ -11,4 +11,4 @@ Repurposed as an I2P source mirror. For binary mirrors check:
 This repository is different in that it pulls in source code but it
 does not treat them as submodules and does not check them into the repository.
 Instead it just pulls in all the updates to all the branches, all the tags,
-and drops it in a directory on a web server, .git and all.
+and drops it in a directory on a web server, .git and all.echelon.i2p

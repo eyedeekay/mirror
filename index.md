@@ -1,21 +1,21 @@
-<h2 id="mirror">mirror</h2>
-<p>Repurposed as an I2P source mirror. For binary mirrors check:</p>
-<ul>
-<li>https://github.com/eydeekay/apt - Debian and Ubuntu Packages</li>
-<li>https://github.com/eyedeekay/files - Windows, Mac OSX, IzPack and NSIS releases</li>
-<li>https://github.com/eyedeekay/f-droid - Android releases</li>
-</ul>
-<p>This repository is different in that it pulls in source code but it does not treat them as submodules and does not check them into the repository. Instead it just pulls in all the updates to all the branches, all the tags, and drops it in a directory on a web server, .git and all. git repository: . ==========================</p>
-<h2 id="git-summary">Git Summary</h2>
-<pre><code>
+git repository: .
+==========================
+
+## Git Summary
+
+```
+
  project  : mirror
  repo age : 1 year, 11 months
  active   : 4 days
  commits  : 191
  files    : 20
  authors  : 
-   191  idk  100.0%</code></pre>
-<pre><code>e3c4bbf 2022-01-20 Repurpose it. This belongs to files now.
+   191	idk  100.0%
+```
+
+```
+e3c4bbf 2022-01-20 Repurpose it. This belongs to files now.
 c63f79e 2020-02-25 apply updates from echelon.i2p
 d84dbfe 2020-02-13 add 0.9.1
 2f971c4 2020-02-13 add 0.9.2
@@ -208,18 +208,48 @@ f94ed7a 2020-02-12 set up a mirror because YOLO
 d316f87 2020-02-12 Initial commit```
 
 ## Files
-</code></pre>
-<p>.gitignore INDEX.md README.md echelon.i2p/0.9.45/i2pinstall_0.9.45.jar echelon.i2p/0.9.45/i2pinstall_0.9.45.jar.sig echelon.i2p/0.9.45/i2pinstall_0.9.45_windows.exe echelon.i2p/0.9.45/i2pinstall_0.9.45_windows.exe.sig echelon.i2p/0.9.45/i2psource_0.9.45.tar.bz2 echelon.i2p/0.9.45/i2psource_0.9.45.tar.bz2.sig echelon.i2p/0.9.45/i2pupdate-0.9.45.su3 echelon.i2p/0.9.45/i2pupdate-0.9.45.su3.torrent echelon.i2p/0.9.45/i2pupdate.su3 echelon.i2p/0.9.45/i2pupdate_0.9.45.zip echelon.i2p/0.9.45/i2pupdate_0.9.45.zip.sig echelon.i2p/0.9.45/jetty-dir.css echelon.i2p/0.9.45/shasums.txt echelon.i2p/robots.txt index.html</p>
-<pre><code>
+
+```
+.gitignore
+INDEX.md
+README.md
+echelon.i2p/0.9.45/i2pinstall_0.9.45.jar
+echelon.i2p/0.9.45/i2pinstall_0.9.45.jar.sig
+echelon.i2p/0.9.45/i2pinstall_0.9.45_windows.exe
+echelon.i2p/0.9.45/i2pinstall_0.9.45_windows.exe.sig
+echelon.i2p/0.9.45/i2psource_0.9.45.tar.bz2
+echelon.i2p/0.9.45/i2psource_0.9.45.tar.bz2.sig
+echelon.i2p/0.9.45/i2pupdate-0.9.45.su3
+echelon.i2p/0.9.45/i2pupdate-0.9.45.su3.torrent
+echelon.i2p/0.9.45/i2pupdate.su3
+echelon.i2p/0.9.45/i2pupdate_0.9.45.zip
+echelon.i2p/0.9.45/i2pupdate_0.9.45.zip.sig
+echelon.i2p/0.9.45/jetty-dir.css
+echelon.i2p/0.9.45/shasums.txt
+echelon.i2p/robots.txt
+index.html
+```
+
 ## Branches
-</code></pre>
-<ul>
-<li>master remotes/github/master remotes/origin/HEAD -&gt; origin/master remotes/origin/master</li>
-</ul>
-<pre><code>
+
+```
+* master
+  remotes/github/master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
+```
+
 ## Tags
-</code></pre>
-<pre><code>
+
+```
+```
+
 ## Remotes
-</code></pre>
-<p>github git@github.com:eyedeekay/mirror (fetch) github git@github.com:eyedeekay/mirror (push) origin https://github.com/eyedeekay/mirror (fetch) origin https://github.com/eyedeekay/mirror (push) ```</p>
+
+```
+github	git@github.com:eyedeekay/mirror (fetch)
+github	git@github.com:eyedeekay/mirror (push)
+origin	https://github.com/eyedeekay/mirror (fetch)
+origin	https://github.com/eyedeekay/mirror (push)
+```
+
