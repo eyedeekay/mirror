@@ -6,7 +6,7 @@ clean:
 	rm index.html -f
 
 generate:
-	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs ./gitpage.sh
+	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs -I {} ./gitpage.sh {}
 	 #-exec ./gitpage.sh {} \;
 
 clone:
