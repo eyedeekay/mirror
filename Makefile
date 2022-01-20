@@ -1,9 +1,12 @@
 
 
-download-su3s: clone generate
+download-su3s: clean clone generate clean index.html
+
+clean:
+	rm index.html -f
 
 generate:
-	find . -maxdepth 1 -type d -exec ./gitpage.sh {} \;
+	find . -maxdepth 1 -type d -not -path '.git' -exec ./gitpage.sh {} \;
 
 clone:
 	git clone https://github.com/i2p/i2p.i2p ; cd i2p.i2p ; git pull --all
@@ -32,7 +35,7 @@ clone:
 	git clone https://github.com/i2p/i2pbutton;	cd i2pbutton ; git pull --all
 	git clone https://github.com/i2p/i2p-browser;	cd i2p-browser ; git pull --all
 
-index.html:
+index.html: index
 	pandoc README.md INDEX.md > index.html
 
 index:
