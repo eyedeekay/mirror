@@ -4,6 +4,7 @@ download-su3s: clean clone generate clean-index index.html
 
 clean:
 	git checkout .
+	git pull --all
 
 clean-index:
 	rm index.html -f
