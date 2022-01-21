@@ -6,7 +6,7 @@ clean:
 	rm index.html -f
 
 generate:
-	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs -I {} ./gitpage.sh {}
+	find . -maxdepth 1 -type d -not -path '.git/' | sort | xargs -I {} ./gitpage.sh {}
 	 #-exec ./gitpage.sh {} \;
 
 clone:
@@ -41,7 +41,7 @@ index.html: index
 
 index:
 	echo "" > INDEX.md
-	find . -maxdepth 1 -type d -not -path '.git' | sort | xargs -I {} echo '- [{}]({})' >> INDEX.md
+	find . -maxdepth 1 -type d -not -path '.git/' | sort | xargs -I {} echo '- [{}]({})' >> INDEX.md
 	#-exec echo "- [{}]({})" >> INDEX.md \;
 	echo "" >> INDEX.md
 	sed -i 's|./||g' INDEX.md
