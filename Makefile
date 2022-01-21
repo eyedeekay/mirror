@@ -50,10 +50,9 @@ index.html: index
 	@echo "</head>" >> index.html
 	@echo "<body>" >> index.html
 	pandoc README.md INDEX.md >> index.html
-	@echo "  <script src=\"script.js\" type=\"text/javascript\"></script>" >> index.html
 	@echo "</body>" >> index.html
 	@echo "</html>" >> index.html
-	rm index.md
+	rm -f index.md INDEX.md
 
 index:
 	echo "" > INDEX.md
