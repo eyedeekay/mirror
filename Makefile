@@ -1,8 +1,11 @@
 
 
-download-su3s: clean clone generate clean index.html
+download-su3s: clean clone generate clean-index index.html
 
 clean:
+	git checkout .
+
+clean-index:
 	rm index.html -f
 
 generate:
