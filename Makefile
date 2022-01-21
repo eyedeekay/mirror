@@ -52,6 +52,7 @@ index.html: index
 	@echo "  <script src=\"script.js\" type=\"text/javascript\"></script>" >> index.html
 	@echo "</body>" >> index.html
 	@echo "</html>" >> index.html
+	rm index.md
 
 index:
 	echo "" > INDEX.md

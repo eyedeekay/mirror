@@ -50,7 +50,11 @@ echo "</head>" >> index.html
 echo "<body>" >> index.html
 
 if [ -f README.md ]; then
-    pandoc README.md index.md >> index.html
+    if [ -f INDEX.md ]; then
+        pandoc README.md INDEX.md index.md >> index.html
+    else
+        pandoc README.md index.md >> index.html
+    fi
 else
     pandoc index.md >> index.html
 fi
