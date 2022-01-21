@@ -4,7 +4,7 @@ mirror
 
 Repurposed as an I2P source mirror. For binary mirrors check:
 
-- https://github.com/eydeekay/apt - Debian and Ubuntu Packages
+- https://github.com/eyedeekay/apt - Debian and Ubuntu Packages
 - https://github.com/eyedeekay/files - Windows, Mac OSX, IzPack and NSIS releases
 - https://github.com/eyedeekay/f-droid - Android releases
 

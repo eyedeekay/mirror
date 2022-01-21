@@ -39,8 +39,22 @@ echo '```' >> index.md
 git remote -v >> index.md
 echo '```' >> index.md
 echo "" >> index.md
+
+echo "<!DOCTYPE html>" > index.html
+echo "<html>" >> index.html
+echo "<head>" >> index.html
+echo "  <title>idk's source mirror</title>" >> index.html
+echo "  <link rel=\"stylesheet\" type=\"text/css\" href =\"/style.css\" />" >> index.html
+echo "  <meta name=\"description\" content=\"I2P software source\"/>" >> index.html
+echo "</head>" >> index.html
+echo "<body>" >> index.html
+
 if [ -f README.md ]; then
-    pandoc README.md index.md -o index.html
+    pandoc README.md index.md >> index.html
 else
-    pandoc index.md -o index.html
+    pandoc index.md >> index.html
 fi
+
+echo "</body>" >> index.html
+echo "</html>" >> index.html
+
