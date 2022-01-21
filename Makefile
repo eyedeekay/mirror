@@ -37,7 +37,18 @@ clone:
 	git clone https://github.com/i2p/i2p-browser;	cd i2p-browser ; git pull --all
 
 index.html: index
-	pandoc README.md INDEX.md > index.html
+	@echo "<!DOCTYPE html>" > index.html
+	@echo "<html>" >> index.html
+	@echo "<head>" >> index.html
+	@echo "  <title>idk's source mirror</title>" >> index.html
+	@echo "  <link rel=\"stylesheet\" type=\"text/css\" href =\"/style.css\" />" >> index.html
+	@echo "  <meta name=\"description\" content=\"I2P Software Source Code\"/>" >> index.html
+	@echo "</head>" >> index.html
+	@echo "<body>" >> index.html
+	pandoc README.md INDEX.md >> index.html
+	@echo "  <script src=\"script.js\" type=\"text/javascript\"></script>" >> index.html
+	@echo "</body>" >> index.html
+	@echo "</html>" >> index.html
 
 index:
 	echo "" > INDEX.md
