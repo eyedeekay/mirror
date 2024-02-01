@@ -1,47 +1,140 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>idk's source mirror</title>
-  <link rel="stylesheet" type="text/css" href ="/style.css" />
-  <meta name="description" content="I2P Software Source Code"/>
-</head>
-<body>
-<h2 id="mirror">mirror</h2>
-<p>Repurposed as an I2P source mirror. For binary mirrors check:</p>
-<ul>
-<li>https://github.com/eyedeekay/apt - <a href="https://github.com/eyedeekay/apt">Debian and Ubuntu Packages</a></li>
-<li><a href="https://eyedeekay.github.io/apt">eyedeekay.github.io/apt</a></li>
-<li>https://github.com/eyedeekay/files - <a href="https://github.com/eyedeekay/files">Windows, Mac OSX, IzPack and NSIS releases</a></li>
-<li><a href="https://eyedeekay.github.io/files">eyedeekay.github.io/files</a></li>
-<li>https://github.com/eyedeekay/fdroid - <a href="https://github.com/eyedeekay/fdroid">Android releases</a></li>
-<li><a href="https://eyedeekay.github.io/fdroid">eyedeekay.github.io/fdroid</a></li>
-</ul>
-<p>This repository is different in that it pulls in source code but it does not treat them as submodules and does not check them into the repository. Instead it just pulls in all the updates to all the branches, all the tags, and drops it in a directory on a web server, .git and all.echelon.i2p</p>
-<p>Using this tool requires <code>git-extras</code>.</p>
-<ul>
-<li><p><a href=".">mirror.home</a></p></li>
-<li><p><a href="i2p.android.base">i2p.android.base</a></p></li>
-<li><p><a href="i2p-browser">i2p-browser</a></p></li>
-<li><p><a href="i2pbutton">i2pbutton</a></p></li>
-<li><p><a href="i2p.firefox">i2p.firefox</a></p></li>
-<li><p><a href="i2p.graphics">i2p.graphics</a></p></li>
-<li><p><a href="i2p.i2p">i2p.i2p</a></p></li>
-<li><p><a href="i2p.i2p-bote">i2p.i2p-bote</a></p></li>
-<li><p><a href="i2p.i2p-bote.android">i2p.i2p-bote.android</a></p></li>
-<li><p><a href="i2p.i2p-opentracker">i2p.i2p-opentracker</a></p></li>
-<li><p><a href="i2p.itoopie">i2p.itoopie</a></p></li>
-<li><p><a href="i2p-jpackage">i2p-jpackage</a></p></li>
-<li><p><a href="i2p-jpackage-mac">i2p-jpackage-mac</a></p></li>
-<li><p><a href="i2p.newsxml">i2p.newsxml</a></p></li>
-<li><p><a href="i2p.plugins.i2pcontrol">i2p.plugins.i2pcontrol</a></p></li>
-<li><p><a href="i2p.plugins.orchid">i2p.plugins.orchid</a></p></li>
-<li><p><a href="i2p.plugins.zzzot">i2p.plugins.zzzot</a></p></li>
-<li><p><a href="i2p-rs">i2p-rs</a></p></li>
-<li><p><a href="i2psam">i2psam</a></p></li>
-<li><p><a href="i2p.scripts">i2p.scripts</a></p></li>
-<li><p><a href="i2p.syndie">i2p.syndie</a></p></li>
-<li><p><a href="i2p.www">i2p.www</a></p></li>
-<li><p><a href="libsam3">libsam3</a></p></li>
-</ul>
-</body>
+  <head>
+    <title></title>
+    <meta name="author" content="eyedeekay" />
+    <meta name="description" content="mirror" />
+    <meta name="keywords" content="master" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="showhider.css" />
+    <link rel="stylesheet" type="text/css" href="darklight.css" />
+  </head>
+  <body>
+    <input type="checkbox" id="checkboxDarkLight">
+    <div class="container">
+    <div id="navbar">
+      <a href="#shownav">
+        Show navigation
+      </a>
+      <div id="shownav">
+        <div id="hidenav">
+          <ul>
+            <li>
+              <a href="..">
+                Up one level ^
+              </a>
+            </li>
+            <li>
+              <a href="index.html">
+                index
+              </a>
+            </li>
+            <li>
+              <a href="index.html">
+                index.html
+              </a>
+            </li>
+          </ul>
+          <br>
+          <a href="#hidenav">
+            Hide Navigation
+          </a>
+        </div>
+      </div>
+    </div>
+    <a id="returnhome" href="/">
+      /
+    </a>
+    <h2>
+      mirror
+    </h2>
+    <p>
+      Repurposed as an I2P source mirror. For binary mirrors check:
+    </p>
+    <ul>
+      <li>
+        <a href="https://github.com/eyedeekay/apt">
+          https://github.com/eyedeekay/apt
+        </a>
+        -
+        <a href="https://github.com/eyedeekay/apt">
+          Debian and Ubuntu Packages
+        </a>
+        <ul>
+          <li>
+            <a href="https://eyedeekay.github.io/apt">
+              eyedeekay.github.io/apt
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://github.com/eyedeekay/files">
+          https://github.com/eyedeekay/files
+        </a>
+        -
+        <a href="https://github.com/eyedeekay/files">
+          Windows, Mac OSX, IzPack and NSIS releases
+        </a>
+        <ul>
+          <li>
+            <a href="https://eyedeekay.github.io/files">
+              eyedeekay.github.io/files
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://github.com/eyedeekay/fdroid">
+          https://github.com/eyedeekay/fdroid
+        </a>
+        -
+        <a href="https://github.com/eyedeekay/fdroid">
+          Android releases
+        </a>
+        <ul>
+          <li>
+            <a href="https://eyedeekay.github.io/fdroid">
+              eyedeekay.github.io/fdroid
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p>
+      This repository is different in that it pulls in source code but it
+      does not treat them as submodules and does not check them into the repository.
+      Instead it just pulls in all the updates to all the branches, all the tags,
+      and drops it in a directory on a web server, .git and all.echelon.i2p
+    </p>
+    <p>
+      Using this tool requires
+      <code>
+        git-extras
+      </code>
+      .
+    </p>
+    <div id="sourcecode">
+      <span id="sourcehead">
+        <strong>
+          Get the source code:
+        </strong>
+      </span>
+      <ul>
+        <li>
+          <a href="https://github.com/eyedeekay/mirror.git">
+            Source Repository: (https://github.com/eyedeekay/mirror.git)
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <iframe src="https://snowflake.torproject.org/embed.html" width="320" height="240" frameborder="0" scrolling="no"></iframe>
+    </div>
+    <div>
+      <a href="https://geti2p.net/">
+        <img class="i2plogo" src="i2plogo.png"></img>
+        I2P
+      </a>
+    </div>
+  </body>
 </html>
